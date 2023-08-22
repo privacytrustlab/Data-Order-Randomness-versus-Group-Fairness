@@ -1,3 +1,6 @@
+# On The Impact of Machine Learning Randomness on Group Fairness
+The repository contains the code for the paper [On The Impact of Machine Learning Randomness on Group Fairness](https://dl.acm.org/doi/abs/10.1145/3593013.3594116) at FAccT 2023.
+
 * [Downloading Datasets](#downloading-datasets)
 * [Training a Model](#training-a-model)
 * [Fairness Variance](#fairness-variance)
